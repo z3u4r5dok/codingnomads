@@ -2,7 +2,8 @@
 # Fix it, without making Python do anything.
 
 flag = False
-while flag:
+while flag: 
     # keep doing what you're doing
+    pass
 
 print("all done.")

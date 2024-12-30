@@ -3,4 +3,7 @@
 # How can you fix the code below to successfully print "xerox"
 # to your console?
 
-print(xerox)
+# print(xerox)
+
+print("xerox")
+
