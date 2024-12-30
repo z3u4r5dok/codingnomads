@@ -19,7 +19,7 @@
 * More structured pseudocode: While we listed the steps, they could be more structured
 and closer to actual pseucode conventions.
 
-*Focus on the core requirements: The task specifically mentions saving kitten names,
+* Focus on the core requirements: The task specifically mentions saving kitten names,
  confirming cuteness, and showing an adoption message. These should be prominent in our
  pseudocode.
 
