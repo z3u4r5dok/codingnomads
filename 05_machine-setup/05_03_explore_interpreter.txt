@@ -7,3 +7,10 @@ Explore the interpreter:
 - Use the `help()` function to explore what you can do with the interpreter.
   - For example execute `help('print')`.
   - Press `q` to exit.
+
+print("This is a test not using closed quotation)
+The message error is helpful providing a
+SyntaxError: unterminated string literal (detected at line 1)
+
+With the use the help(print) we could visualize the different uses of the print
+fucntion.
