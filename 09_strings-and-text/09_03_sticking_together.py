@@ -12,3 +12,9 @@ gum = "gum"
 shoe = "shoe"
 song = "spice girls: wannabe"
 body_part = "your ear"
+
+conca1 = song + pb + fingers
+print(conca1)
+
+conca2 = fingers + "," + teeth + "," + body_part
+print(conca2)
